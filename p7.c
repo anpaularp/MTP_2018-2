@@ -1,3 +1,5 @@
+// Ana Paula Ribeiro de Passos
+// 11621ETE002
 
 #include <stdio.h>
 int A(int a, int b){
