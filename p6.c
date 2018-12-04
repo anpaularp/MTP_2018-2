@@ -1,4 +1,5 @@
-
+// Ana Paula Ribiero de Passos
+// 11621ETE002
 #include <stdio.h>
 int soma(int v[20], int s){
 	int i = 0;
